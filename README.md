@@ -12,9 +12,6 @@ Hi 👋🏻, I'm Daniel Xhakalliu<br><br>👨🏻‍🎓 I'm graduated in Comput
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Danielxhxh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Danielxhxh&icon=0&color=5)](https://visitcount.itsvg.in)
 
