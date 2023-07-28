@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏻, I'm Daniel Xhakalliu<br><br>👨🏻‍🎓 I'm graduated in Computer Science at the Tor Vergata University.<br>💻 I'm currently working as a Full Stack Developer.<br>🤝 I’m open to any collaboration.<br>🌱 I’m currently learning Cybersecurity.<br>⚡ Just because I'm a programmer, it doesn't mean I can fix your printer... I mean I can,  but not because I'm a programmer.
+Hi 👋🏻, I'm Daniel Xhakalliu<br><br>👨🏻‍🎓 I'm graduated in Computer Science at the Tor Vergata University.<br>💻 I'm currently working as a Cybersecurity Research Collaborator.<br>🤝 I’m open to any collaboration.<br>🌱 I’m currently learning Cybersecurity.<br>⚡ Just because I'm a programmer, it doesn't mean I can fix your printer... I mean I can,  but not because I'm a programmer.
 
 
 # 💻 Tech Stack:
